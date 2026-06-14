@@ -3,6 +3,6 @@
 - 🤔 I'm looking for help with security
 - 💬 Ask me about anything!!
 - 📫 How to reach me: zcc22592590@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tong-hsieh-45a801296/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tong-hsieh-45a801296/)
 - ⚡ Fun fact: I first wrote a program script when I was eight years old to set up a Minecraft bucket server.
 
